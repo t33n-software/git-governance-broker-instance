@@ -17,5 +17,6 @@ platform artifact exists.
 Governed changes land through ticket branches and pull requests into
 `develop`. `main` is the production and control-plane truth.
 
-The push-protections Ruleset source and its import boundary are documented in
-[`docs/hosting-platforms/github/rulesets`](docs/hosting-platforms/github/rulesets/README.md).
+Branch governance is bound through the organization-level rule-sets; the
+canonical source and the rule-set family of this repository are documented in
+[`docs/conventions/hosting-plattform/github/rule-sets`](docs/conventions/hosting-plattform/github/rule-sets/README.md).
